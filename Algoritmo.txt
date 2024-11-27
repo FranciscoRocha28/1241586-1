@@ -10,6 +10,7 @@ Inicio
       soma <- n1^2 + n2^2
       resultado <- soma
     FimEnquanto
+    Escrever("Resultado:", soma, resultado)
 Fim
     
     
