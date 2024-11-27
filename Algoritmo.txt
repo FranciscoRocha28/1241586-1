@@ -1,0 +1,15 @@
+Algoritmo numero feliz
+
+ED: n1,n2, resultado, soma inteiro
+
+Inicio
+    resultado <- 0
+    Escrever("Introduza os numéros:")
+    Ler(n1,n2)
+    Enquanto resultado != 1 Fazer
+      soma <- n1^2 + n2^2
+      resultado <- soma
+    FimEnquanto
+Fim
+    
+    
